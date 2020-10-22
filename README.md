@@ -1,4 +1,4 @@
-Hi, I'm Vincenzo 👋
+<center><h2>Hi, I'm Vincenzo 👋</h2></center>
 
 <p align="center">
   <a href="https://github.com/VincenzoMarcovecchio" class="rich-diff-level-one">
