@@ -32,9 +32,7 @@
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/VincenzoMarcovecchio?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/VincenzoMarcovecchio?style=flat-square&color=black&logo=github">
-  </a>
+  
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/commits/monthly/VincenzoMarcovecchio?style=flat-square&color=black&logo=github">
   </a>
