@@ -26,7 +26,7 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/VincenzoMarcovecchio/README.md">
+    <img src="https://badges.pufler.dev/visits/VincenzoMarcovecchio/VincenzoMarcovecchio">
   </a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/VincenzoMarcovecchio?style=flat-square&color=black&logo=github">
