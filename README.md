@@ -1,10 +1,6 @@
 <center><h2>Hi, I'm Vincenzo 👋</h2></center>
 
-<p align="center">
-  <a href="https://github.com/VincenzoMarcovecchio" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=VincenzoMarcovecchio&title_color=333&text_color=777" alt="Vincenzo's Stats" >
-  </a>
-</p>
+<center><h2>What up what up</h2></center>
 
 <p align="center">
   <a href="https://dev.to/VincenzoMarcovecchio">
